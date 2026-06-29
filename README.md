@@ -626,7 +626,7 @@ RETURN
 
 ## 👤 Author
 
-**[Your Name]**
+**Martiros Arutyunov**
 Data Analyst | Power BI | Python | SQL
 
 > Self-taught data analyst transitioning into the field with a focus on commercial analytics and business intelligence. Portfolio built around end-to-end project delivery — from raw data with structural gaps to professional dashboards with actionable business recommendations.
